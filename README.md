@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello World 👋🌎, I'm Andrew Cheung!
+I'm a Computer Science student at Cornell University passionate about software development, and I'm always eager to learn new technologies and work on exciting projects!
 
-<!--
-**AndrewCheung360/AndrewCheung360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ About Me
+  ### 🚀 Skills
+  - **💻 Languages:** Python, Java, Javascript. Typescript, OCaml, HTML, CSS
+  - **🛠️ Frameworks and Tools:** React, React Native, Git, VS Code, Supabase
+  ### 🎮 Hobbies and Interests
+  - Developing Websites, Apps, and Games, Playing Piano and Violin, Working Out, Building Gundam Plastic Models, Reading Manga, Watching Anime, Playing Fighting and Card Games
 
-Here are some ideas to get you started:
+## 🤝 Connect with Me
+- **📧 Email:** andrewcheung360@gmail.com
+- **🔗 Linkedin:** www.linkedin.com/in/andrewcheung360
+- **🌐 Personal Website (Under Construction):** 🚧 andrew-cheung.com 🚧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
