@@ -3,8 +3,8 @@ I'm a Computer Science student at Cornell University passionate about software d
 
 ## ✨ About Me
   ### 🚀 Skills
-  - **💻 Languages:** Python, Java, Javascript. Typescript, Kotlin, OCaml, HTML, CSS
-  - **🛠️ Frameworks and Tools:** React, React Native, Nextjs, Supabase, Jetpack Compose, Git
+  - **💻 Languages:** Python, Java, Javascript. Typescript, Kotlin, HTML, CSS
+  - **🛠️ Frameworks and Tools:** React, React Native, Nextjs, Supabase, Firebase, AWS, GCP, Jetpack Compose, Git 
   ### 🎮 Hobbies and Interests
   - Developing Websites, Apps, and Games, Playing Piano and Violin, Working Out, Building Gundam Plastic Models, Reading Manga, Watching Anime
 
