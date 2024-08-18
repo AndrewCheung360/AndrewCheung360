@@ -1,5 +1,5 @@
 # Hello World 👋🌎, I'm Andrew Cheung!
-I'm currently pursuing a Bachelor's degree in Computer Science with a minor in Artificial Intelligence at Cornell University. I'm passionate about software development and always eager to learn new technologies and work on exciting projects!
+As a software engineer and computer science student at Cornell University minoring in Artificial Intelligence, I'm passionate about leveraging full-stack development and machine learning to create innovative solutions!
 
 ## ✨ About Me
   ### 🚀 Skills
