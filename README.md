@@ -15,5 +15,5 @@ As a software engineer and computer science student at Cornell University minori
 ## 🤝 Connect with Me
 - **📧 Email:** andrewcheung360@gmail.com
 - **🔗 Linkedin:** www.linkedin.com/in/andrewcheung360
-- **🌐 Personal Website (Under Construction):** 🚧 andrew-cheung.com 🚧
+- **🌐 Personal Website (Under Construction):** 🚧 [andrew-cheung.com](andrew-cheung.com) 🚧
 
