@@ -10,7 +10,7 @@ As a software engineer and computer science student at Cornell University minori
   ### 🎮 Hobbies and Interests
   - Playing Piano and Violin, Working Out, Building Gundam Plastic Models, Reading Manga, Watching Anime
   ### 📝 Resume
-  - For more info, check out my [Resume!](https://drive.google.com/file/d/1tpG_UHkdmh7d_pNWcnfsIkPtmivHRDnB/view?usp=sharing)
+  - For more info, check out my [Resume!](https://drive.google.com/file/d/12XnjD8853dsgtRboH1hkNbDwZTnfRhni/view?usp=sharing)
 
 ## 🤝 Connect with Me
 - **📧 Email:** andrewcheung360@gmail.com
