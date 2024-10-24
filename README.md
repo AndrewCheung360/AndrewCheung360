@@ -1,5 +1,5 @@
 # Hello World 👋🌎, I'm Andrew Cheung!
-As a software engineer and computer science student at Cornell University minoring in Artificial Intelligence, I'm passionate about leveraging full-stack development and machine learning to create innovative solutions!
+As a software engineer and computer science student at Cornell University minoring in Artificial Intelligence, I'm passionate about leveraging mobile and full-stack development to create innovative solutions!
 
 ## ✨ About Me
   ### 🚀 Skills
