@@ -1,5 +1,5 @@
 # Hello World 👋🌎, I'm Andrew Cheung!
-As a software engineer and computer science student at Cornell University, I'm passionate about leveraging mobile and full-stack development to create beautiful user experiences and innovative solutions!
+As an aspiring software engineer and computer science student at Cornell University, I'm passionate about leveraging mobile and full-stack development to create beautiful user experiences and innovative solutions!
 
 ## ✨ About Me
   ### 🚀 Skills
