@@ -3,9 +3,12 @@ As a software engineer and computer science student at Cornell University, I'm p
 
 ## ✨ About Me
   ### 🚀 Skills
-  - **💻 Languages:** Python, Kotlin, Java, Javascript, Typescript
-  - **🛠️ Frameworks/Libraries:** React, Jetpack Compose, React Native, Next.js
-  - **🛢 Databases and Platforms:** Firebase, AWS
+  - **💻 Languages:** Python, Kotlin, Java, JavaScript, TypeScript
+  - **📱 Mobile:** Jetpack Compose, Retrofit, Apollo Kotlin, Dagger-Hilt, Room, React Native, Expo
+  - **🌐 Web:** React, Next.js, TailwindCSS, HTML, CSS, Three.js
+  - **⚙️ Backend:** FastAPI, Flask, Express.js, GraphQL
+  - **🛢 Databases and Platforms:** Firebase, AWS, Supabase, GCP
+  - **✅ Testing:** Pytest, JUnit, Jest
   ### 🎮 Hobbies and Interests
   - Playing Piano and Violin, Working Out, Building Gundam Plastic Models, Reading Manga, Watching Anime
   ### 📝 Resume
